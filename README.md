@@ -45,7 +45,7 @@
 ## 📫 Connect With Me
 
 - 📧 Email: nihashnaidu.gandham123@gmail.com
-- 💼 LinkedIn: add-your-link-here
+- 💼 LinkedIn: https://www.linkedin.com/in/gandham-nihash-2888b4307/
 - 📸 Instagram: nihash_naidu_1322
 ---
 
