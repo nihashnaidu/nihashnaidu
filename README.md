@@ -47,3 +47,14 @@
 - 📧 Email: nihashnaidu.gandham123@gmail.com
 - 💼 LinkedIn: add-your-link-here
 - 📸 Instagram: nihash_naidu_1322
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nihashnaidu&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihashnaidu&layout=compact&theme=tokyonight" />
+</p>
