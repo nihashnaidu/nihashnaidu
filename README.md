@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Gandham Nihash Naidu</h1>
+<h3 align="center">Cybersecurity Student | SOC Enthusiast | Python & Linux Learner</h3>
 
-<!--
-**nihashnaidu/nihashnaidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-Learning-red">
+  <img src="https://img.shields.io/badge/Wazuh-SIEM-blue">
+  <img src="https://img.shields.io/badge/Linux-Kali-green">
+  <img src="https://img.shields.io/badge/Python-Basics-yellow">
+  <img src="https://img.shields.io/badge/Focus-SOC%20Analyst-orange">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 B.Tech CSE (Cybersecurity)
+- 🔐 Interested in SOC, SIEM, and Threat Detection
+- 🐧 Learning Linux, Kali Linux, and security tools
+- 💻 Building cybersecurity projects for practical learning
+- 📚 Exploring Python, networking, and blue team concepts
+
+---
+
+## 🛠 Skills
+
+- Cybersecurity Basics
+- Linux / Kali Linux
+- Networking Fundamentals
+- Python
+- Wazuh
+- Docker
+- Suricata
+- Log Monitoring
+
+---
+
+## 🔥 Featured Projects
+
+- [SOC Monitoring Lab](https://github.com/nihashnaidu/soc-monitoring-lab)
+- [Network Sniffer Project](https://github.com/nihashnaidu/code_alpha_Network_Sniffer_project_task)
+- [Secure Coding Review Project](https://github.com/nihashnaidu/codealpha_Secure_Coding_Review_task)
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: nihashnaidu.gandham123@gmail.com
+- 💼 LinkedIn: add-your-link-here
+- 📸 Instagram: nihash_naidu_1322
